@@ -2,8 +2,10 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
 
-My name is Ihor Zenich. I'm living in Kharkiv, Ukraine.  
-I'm known as author of [HTML5Checklist](https://github.com/ihorzenich/html5checklist), co-author of [CSS-methodologies "101" examples](https://github.com/aleshaOleg/holy-grail-markup) and [BEM evangelist](http://ihorzenich.github.io/talks/bem-css/).
+My name is Ihor Zenich. I'm living in Kharkiv, Ukraine.
+I'm known as author of [HTML5Checklist](https://github.com/ihorzenich/html5checklist), co-author of [CSS-methodologies "101" examples](https://github.com/aleshaOleg/holy-grail-markup), [CSS Browser Selector +](https://github.com/ridjohansen/css_browser_selector) and [BEM evangelist](http://ihorzenich.github.io/talks/bem-css/).
+
+**Professional interests**: frontend-developers management, ways to speedup html markup and it's quality.
 
 This AMA is a good place to ask me personal or work-related questions.
 Ask me anything! 
